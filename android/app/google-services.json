@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "477617589429",
+    "project_id": "purebloodflutter",
+    "storage_bucket": "purebloodflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477617589429:android:fab3f677bfe32f3918c2fc",
+        "android_client_info": {
+          "package_name": "com.example.pure_blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477617589429-3hvh1ptihpi5r9ugr6k70il19p0mq8n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGBkxnwsYxupdJwzBYrgmSlFuslsLdL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477617589429-3hvh1ptihpi5r9ugr6k70il19p0mq8n3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477617589429-36utkefef3nn8e07i0pe649q3520uq7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pureBlood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
